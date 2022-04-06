@@ -1,2 +1,2 @@
-# send_cmd_hermes
+# Scripts_for_zoc
 скрипты для ZOC на языке Rexx
